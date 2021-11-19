@@ -1,3 +1,4 @@
 hello
 what
 git commit
+git forget commit
